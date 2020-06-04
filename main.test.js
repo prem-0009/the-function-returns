@@ -6,7 +6,7 @@ let sum = 0;
 let prod = 0;
 
 function greet(string1){
-  greeting = 'Hello ' + string1;
+  greeting = greeting+' ' + string1;
 
 }
 
